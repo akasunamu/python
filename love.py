@@ -9,7 +9,7 @@ for y in range(-30,30):
         if check(x,y):
             print("love"[(x+y)%4],end='')           
         else:
-            print(" ",end='')
+            print("9",end='')
     print('')
 
 
