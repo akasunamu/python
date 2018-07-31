@@ -9,4 +9,4 @@ elif str == 6.18:
 elif str == 8.30:           
     print('22BRITHDAY')
 else:
-    print ('You are die')     
+    print ('You are die！')     
