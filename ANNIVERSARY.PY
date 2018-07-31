@@ -1,4 +1,4 @@
-input
+#如何要求输入一个日期
 str=7.15
 if str == 7.15:           
     print('LOVE DAY')        
